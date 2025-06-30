@@ -74,8 +74,6 @@ cd frontend
 npm install
 npm start
 ``` -->
-
-
 <div align="center">
 
 # ⚡ Electric Meter Inspection Submission Website (Demo)
@@ -137,11 +135,6 @@ npm start
 
 <div align="center">
 
-<details>
-<summary><b>📱 Click to view User Screenshots</b></summary>
-
-<br>
-
 **Dashboard & Navigation**
 ![User Interface 1](assets/user/user1.png)
 
@@ -160,18 +153,11 @@ npm start
 **Mobile Responsive**
 ![User Interface 6](assets/user/user6.png)
 
-</details>
-
 </div>
 
 ### 🛡️ ADMIN Interface
 
 <div align="center">
-
-<details>
-<summary><b>⚙️ Click to view Admin Screenshots</b></summary>
-
-<br>
 
 **Admin Dashboard**
 ![Admin Interface 1](assets/admin/admin1.png)
@@ -187,8 +173,6 @@ npm start
 
 **Report Generation**
 ![Admin Interface 5](assets/admin/admin5.png)
-
-</details>
 
 </div>
 
