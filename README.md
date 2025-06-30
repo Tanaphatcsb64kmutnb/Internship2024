@@ -64,6 +64,8 @@ Designed for trial use with annual inspection schedules.
 cd backend
 npm install
 npm run dev
+```
+
 
 
 ### Frontend
@@ -71,3 +73,4 @@ npm run dev
 cd frontend
 npm install
 npm start
+```
